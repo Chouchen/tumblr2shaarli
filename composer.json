@@ -1,0 +1,20 @@
+{
+	"name": "shikiryu/tumblr2shaarli",
+    "description": "Copy the given tumblr to your shaarli",
+    "version": "0.1.0",
+    "keywords": ["tumblr", "shaarli"],
+    "homepage": "https://shikiryu.com",
+    "time": "2016-10-06",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shikiryu",
+            "email": "pro@shikiryu.com",
+            "homepage": "https://shikiryu.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "league/html-to-markdown": "^4.2"
+    }
+}
